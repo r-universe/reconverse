@@ -3,3 +3,38 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "grates"]
+	path = grates
+	url = https://github.com/reconverse/grates
+	shallow = true
+	registered = true
+[submodule "i2extras"]
+	path = i2extras
+	url = https://github.com/reconverse/i2extras
+	shallow = true
+	registered = true
+[submodule "incidence2"]
+	path = incidence2
+	url = https://github.com/reconverse/incidence2
+	shallow = true
+	registered = true
+[submodule "outbreaks"]
+	path = outbreaks
+	url = https://github.com/reconverse/outbreaks
+	shallow = true
+	registered = true
+[submodule "reportfactory"]
+	path = reportfactory
+	url = https://github.com/reconverse/reportfactory
+	shallow = true
+	registered = true
+[submodule "trendeval"]
+	path = trendeval
+	url = https://github.com/reconverse/trendeval
+	shallow = true
+	registered = true
+[submodule "trending"]
+	path = trending
+	url = https://github.com/reconverse/trending
+	shallow = true
+	registered = true
