@@ -12,19 +12,7 @@
     "oncran": true
   },
   {
-    "package": "outbreaks",
-    "oncran": true
-  },
-  {
     "package": "reportfactory",
-    "oncran": true
-  },
-  {
-    "package": "trendeval",
-    "oncran": true
-  },
-  {
-    "package": "trending",
     "oncran": true
   }
 ]
