@@ -18,13 +18,23 @@
 	url = https://github.com/reconverse/incidence2
 	shallow = true
 	registered = true
+[submodule "outbreaks"]
+	path = outbreaks
+	url = https://github.com/reconverse/outbreaks
+	shallow = true
+	registered = true
 [submodule "reportfactory"]
 	path = reportfactory
 	url = https://github.com/reconverse/reportfactory
+	shallow = true
+	registered = true
+[submodule "trendeval"]
+	path = trendeval
+	url = https://github.com/reconverse/trendeval
 	shallow = true
 	registered = true
 [submodule "trending"]
 	path = trending
 	url = https://github.com/reconverse/trending
 	shallow = true
-	registered = false
+	registered = true
