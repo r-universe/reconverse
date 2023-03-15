@@ -1,18 +1,6 @@
 [
   {
-    "package": "incidence2",
-    "oncran": true
-  },
-  {
-    "package": "trendeval",
-    "oncran": true
-  },
-  {
-    "package": "reportfactory",
-    "oncran": true
-  },
-  {
-    "package": "trending",
+    "package": "grates",
     "oncran": true
   },
   {
@@ -20,11 +8,23 @@
     "oncran": true
   },
   {
-    "package": "grates",
+    "package": "incidence2",
     "oncran": true
   },
   {
     "package": "outbreaks",
+    "oncran": true
+  },
+  {
+    "package": "reportfactory",
+    "oncran": true
+  },
+  {
+    "package": "trendeval",
+    "oncran": true
+  },
+  {
+    "package": "trending",
     "oncran": true
   }
 ]
