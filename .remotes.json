@@ -1,11 +1,5 @@
 [
   {
-    "package": "grates",
-    "url": "https://github.com/reconverse/grates",
-    "via": ["incidence2"],
-    "from": "incidence2"
-  },
-  {
     "package": "trending",
     "url": "https://github.com/reconverse/trending",
     "via": ["i2extras"],
