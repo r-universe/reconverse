@@ -12,6 +12,7 @@
 [submodule "incidence2"]
 	path = incidence2
 	url = https://github.com/reconverse/incidence2
+	subdir = pkg
 [submodule "outbreaks"]
 	path = outbreaks
 	url = https://github.com/reconverse/outbreaks
