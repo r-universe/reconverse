@@ -1,0 +1,9 @@
+[
+  {
+    "package": "grates",
+    "url": "https://github.com/reconverse/grates",
+    "via": ["incidence2"],
+    "subdir": "pkg",
+    "from": "incidence2"
+  }
+]
